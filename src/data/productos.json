@@ -1,0 +1,11 @@
+[
+  {
+    "nombre": "Nintendo Switch",
+    "descripcion": "Consola Nintendo",
+    "codigo": 4,
+    "precio": 329,
+    "stock": 25,
+    "id": "a7eb1117-f081-4b59-a36d-821b883a54c1",
+    "timestamp": 1615304430625
+  }
+]
